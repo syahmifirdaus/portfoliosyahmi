@@ -1,0 +1,37 @@
+ <!-- <header> Header
+      <nav>Nav Bar</nav>
+    </header>
+
+    <section>
+        Section
+      <p>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit aut
+        incidunt provident natus harum autem aspernatur nihil laboriosam iure
+        tenetur! Iure et totam cupiditate eaque culpa soluta odio, deleniti
+        dolores?
+      </p>
+      <a href="page-1.html">Go to page 1</a>
+    </section>
+    <article>
+        Article
+      <p>
+        Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aut fuga
+        officia dolor inventore cum laudantium ipsum blanditiis natus quod,
+        atque labore sint nulla consequatur? Veniam molestias nesciunt voluptas
+        rem ea!
+      </p>
+    </article>
+    <aside>
+        Aside
+      <p>
+        Lorem ipsum dolor sit amet consectetur, adipisicing elit. Beatae
+        deserunt cupiditate vitae, vel aliquid voluptatum consequatur autem
+        impedit quia iure, doloremque consectetur ratione qui a, praesentium
+        pariatur repudiandae cumque eaque.
+      </p>
+    </aside>
+
+    <footer>
+        Footer
+      <p>©2021 Shahrin Azuan</p>
+    </footer> -->
